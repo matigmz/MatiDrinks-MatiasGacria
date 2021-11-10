@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.container {
+    color: white;
+}
+
+.imageP {
+    background-color: white;
+}
+
+.textTitulo {
+    color: white;
+}
+
+.textPrecio {
+    color: white;
+}
+
+#subtotales {
+    color: white;
+}
+
+.card-header {
+    color: black;
+}
+
+.card-title {
+    color: black;
+}
+
+th {
+    color: white;
+}
+
+footer {
+    background-color: white;
+}
+
+.titulo-redes {
+    margin-bottom: 10px;
+    color: black;
+    text-align: center;
+}
+
+.footer-redes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.redes-inst {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.redes-fb {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.redes-wsp {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.copy {
+    text-align: center;
+}
+
+#cargando {
+    display: none;
+}

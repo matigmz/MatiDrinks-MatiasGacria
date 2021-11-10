@@ -1,0 +1,108 @@
+[{
+        "id": 1,
+        "marca": "Gancia",
+        "imagen": "img/1.png",
+        "precio": "450",
+        "detalles": []
+    },
+    {
+        "id": 2,
+        "marca": "Fernet",
+        "imagen": "img/2.png",
+        "precio": "750",
+        "detalles": []
+    },
+    {
+        "id": 3,
+        "marca": "Smirnof",
+        "imagen": "img/3.png",
+        "precio": "550",
+        "detalles": []
+    },
+    {
+        "id": 4,
+        "marca": "Quilmes",
+        "imagen": "img/4.png",
+        "precio": "120",
+        "detalles": []
+    },
+    {
+        "id": 5,
+        "marca": "Absolut",
+        "imagen": "img/5.jpg",
+        "precio": "2100",
+        "detalles": []
+    },
+    {
+        "id": 6,
+        "marca": "Jack Daniels",
+        "imagen": "img/6.png",
+        "precio": "6500",
+        "detalles": []
+    },
+    {
+        "id": 7,
+        "marca": "Patagonia 24.7",
+        "imagen": "img/7.png",
+        "precio": "250",
+        "detalles": []
+    },
+    {
+        "id": 8,
+        "marca": "Schneider",
+        "imagen": "img/8.jpg",
+        "precio": "130",
+        "detalles": []
+    },
+    {
+        "id": 9,
+        "marca": "Speed",
+        "imagen": "img/9.png",
+        "precio": "80",
+        "detalles": []
+    },
+    {
+        "id": 10,
+        "marca": "Monster",
+        "imagen": "img/10.png",
+        "precio": "190",
+        "detalles": []
+    },
+    {
+        "id": 11,
+        "marca": "Heineken",
+        "imagen": "img/11.png",
+        "precio": "165",
+        "detalles": []
+    },
+    {
+        "id": 12,
+        "marca": "Quilmes Pale Lager",
+        "imagen": "img/12.png",
+        "precio": "130",
+        "detalles": []
+    },
+    {
+        "id": 13,
+        "marca": "New Age",
+        "imagen": "img/13.jpg",
+        "precio": "175",
+        "detalles": []
+    },
+    {
+        "id": 14,
+        "marca": "Quilmes Red Lager",
+        "imagen": "img/14.png",
+        "precio": "130",
+        "detalles": []
+    },
+    {
+        "id": 15,
+        "marca": "Patagonia Amber Lager",
+        "imagen": "img/15.png",
+        "precio": "260",
+        "detalles": []
+    }
+
+
+]
